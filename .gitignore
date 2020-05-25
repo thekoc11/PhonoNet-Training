@@ -1,3 +1,4 @@
 runs/*
 saves/
 .vscode/settings.json
+__pycache__/data.cpython-37.pyc
